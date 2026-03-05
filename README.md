@@ -5,7 +5,7 @@ To install the dependencies, run the following in the project folder:
 
 pip install -r requirements.txt
 
-For generating Gemini API key for testing the project:
+For generating Gemini API key to test the project:
 
 1. go to https://aistudio.google.com/app/api-keys
 2. click on "Create API key"
